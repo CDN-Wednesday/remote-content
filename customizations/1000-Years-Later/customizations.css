@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: "Trebuchet MS";
+}
+
+body {
+    background-image: url("../img/background.png"), url("../img/sides.png");
+    background-position: top, top;
+    background-repeat: no-repeat, repeat-x;
+    background-color: #1e1915;
+	color: #5b8d56;
+}
+
+.conteneur {
+    position: relative;
+    padding-bottom: 50%;
+    border: 10px solid transparent;
+}
+
+.liens {
+    font-size: 80%;
+    color: #5b8d56;
+    text-decoration: underline dotted;
+}
+
+.copyright {
+  text-align: center;
+}
+
+strong {
+  color: #f3c39e;
+}
+
+body {
+    font-family: 'Trebuchet MS';
+}
+
+body::-webkit-scrollbar {
+  width: 12px;
+}
+
+body::-webkit-scrollbar-track {
+  background: #fffff;
+  border-radius: 6px;
+}
+
+body::-webkit-scrollbar-thumb {
+  background: #f6c4a1;
+  border-radius: 6px;
+}
+
+.transparent {
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0));
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-radius: 50px;
+    border:1px solid rgba(255, 255, 255, 0.18);
+    box-shadow: 0 30px 30px 0 rgba(0, 0, 0, 0.37);
+}
