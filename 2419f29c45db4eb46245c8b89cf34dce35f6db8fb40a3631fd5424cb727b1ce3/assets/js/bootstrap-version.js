@@ -1,0 +1,1 @@
+document.getElementById("bootstrap-version").textContent="5.3.2";

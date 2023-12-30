@@ -1,0 +1,2 @@
+if(navigator.userAgent.toLowerCase().indexOf('android') > -1)
+    document.getElementById('metaViewport').setAttribute('content', 'width='+screen.width+', initial-scale=1.0, maximum-scale=1.0, user-scalable=no');
