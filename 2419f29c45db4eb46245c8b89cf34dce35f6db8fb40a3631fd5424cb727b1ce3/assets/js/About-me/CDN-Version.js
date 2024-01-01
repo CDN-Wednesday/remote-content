@@ -1,1 +1,1 @@
-document.getElementById("cdn-version").textContent="CDN version: May 25, 2024";
+document.getElementById("cdn-version").textContent="May 25, 2024";
