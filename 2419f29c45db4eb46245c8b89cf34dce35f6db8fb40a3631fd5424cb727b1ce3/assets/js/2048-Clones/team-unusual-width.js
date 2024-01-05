@@ -1,1 +1,0 @@
-document.getElementById("team-unusual-width").textContent="300";
