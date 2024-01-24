@@ -18,3 +18,7 @@ https://waddlepenguins.me/
 The following sites uses my CDN partially as of January 21, 2024:
 
 https://1000yearslater.github.io/
+
+The following sites uses my CDN fully as of January 24, 2024:
+
+https://1000yearslater.github.io/
