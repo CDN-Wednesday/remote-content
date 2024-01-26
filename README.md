@@ -11,10 +11,6 @@ https://1000yearslater.github.io/RetroDatabase/
 
 https://r5-3600.github.io/2048_clones/
 
-The following sites will be using my CDN soon:
-
-https://waddlepenguins.me/
-
 The following sites uses my CDN partially as of January 21, 2024:
 
 https://1000yearslater.github.io/
