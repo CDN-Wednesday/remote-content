@@ -17,6 +17,6 @@ The following sites uses my CDN fully as of January 24, 2024:
 
 https://1000yearslater.github.io/
 
-The following sites uses my CDN fully as of January 24, 2024:
+The following sites uses my CDN fully as of January 26, 2024:
 
 https://r5-3600.github.io/about-me/
