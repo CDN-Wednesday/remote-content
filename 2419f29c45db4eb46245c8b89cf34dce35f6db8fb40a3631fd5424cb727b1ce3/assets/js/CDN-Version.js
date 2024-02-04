@@ -1,1 +1,1 @@
-document.getElementById("cdn-version").textContent="February 1, 2024";
+document.getElementById("cdn-version").textContent="February 4, 2024";
