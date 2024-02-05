@@ -25,3 +25,5 @@ https://r5-3600.github.io/2048_clones/
 The following sites uses my CDN fully as of February 5, 2024:
 
 https://r5-3600.github.io/cookie_clicker-steam/
+
+https://r5-3600.github.io/2048_clones/
