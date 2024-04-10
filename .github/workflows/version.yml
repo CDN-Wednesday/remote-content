@@ -16,7 +16,7 @@ jobs:
           ref: ${{ github.head_ref }}   # checkout the correct branch name
           fetch-depth: 0                # fetch the whole repo history
         runs:
-          using: 'node20'
+          using: 'node21'
 
       - name: Git Version
         id: version
