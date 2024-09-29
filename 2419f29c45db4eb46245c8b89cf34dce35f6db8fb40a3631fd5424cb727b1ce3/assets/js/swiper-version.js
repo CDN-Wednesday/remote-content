@@ -1,1 +1,1 @@
-document.getElementById("swiper-version").textContent="11.1.12";
+document.getElementById("swiper-version").textContent="11.1.14";
