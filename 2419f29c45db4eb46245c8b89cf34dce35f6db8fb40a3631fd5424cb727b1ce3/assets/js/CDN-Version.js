@@ -1,2 +1,2 @@
-document.getElementById("cdn-version").textContent="October 3, 2025";
+document.getElementById("cdn-version").textContent="October 8, 2025";
 
