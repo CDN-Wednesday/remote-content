@@ -1,1 +1,1 @@
-document.getElementById("copyrights").textContent="2025";
+document.getElementById("copyrights").textContent="2026";
