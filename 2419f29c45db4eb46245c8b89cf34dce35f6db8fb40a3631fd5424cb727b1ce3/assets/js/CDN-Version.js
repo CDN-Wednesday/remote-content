@@ -1,2 +1,2 @@
-document.getElementById("cdn-version").textContent="January 1, 2026";
+document.getElementById("cdn-version").textContent="January 9, 2026";
 
